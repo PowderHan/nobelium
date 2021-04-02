@@ -1,7 +1,7 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'Sylvan's Blog',
+  author: 'Sylvan Ricardo',
+  email: 'jiangzhh25@mail2.sysu.edu.cn',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
