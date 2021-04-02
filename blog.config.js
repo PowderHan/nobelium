@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Sylvan's Blog',
+  title: 'Sylvan\'s Blog',
   author: 'Sylvan Ricardo',
   email: 'jiangzhh25@mail2.sysu.edu.cn',
   link: 'https://nobelium.vercel.app',
